@@ -14,8 +14,8 @@ public class Exo1 {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public static void main (String[] arg) {
-		System.out.println();
-		
-	}
+//	public static void main (String[] arg) {
+//		System.out.println();
+//		
+//	}
 }
